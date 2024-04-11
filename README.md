@@ -1,3 +1,4 @@
+
 # Image-mapping
 This website is created using image mapping.
  An image map is an image with clickable areas. The areas are defined with one or more <area> tags.
@@ -7,4 +8,4 @@ To create an image map you need an image and some HTML code that describes the c
 Here I created using the world map, if you select a particular continent it shows details about that continent.
 
 
-Hosted Link : https://continentdetails.netlify.app/
+Hosted Link: https://continentdetails.netlify.app/
